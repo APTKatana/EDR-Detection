@@ -35,10 +35,5 @@ CAN Detect :
     used by legitimate system administrators, thereby reducing the likelihood of detection
     by behavioral analysis engines.
 
-
-
-
-
-
     Disclaimer: This script is for educational and authorized testing purposes only.
     Use in production environments or for unauthorized activities is strictly prohibited.

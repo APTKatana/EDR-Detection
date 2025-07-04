@@ -1,5 +1,6 @@
 A stealthy PowerShell script to detect EDE/Av and SIEM Agents
-Usage : Only Run !
+
+    Usage : Only Run !
 
     CAN Detect : 
     EDRs: CrowdStrike Falcon , Windows Defender , SentinalOne , Carbon Black , Sophos , Cortex XDR , Symantec , Trend Micro Apexone

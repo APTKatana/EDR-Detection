@@ -1,7 +1,9 @@
-A stealthy PowerShell script to detect EDE/Av and SIEM Agent
-CAN Detect : 
+A stealthy PowerShell script to detect EDE/Av and SIEM Agents
+Usage : Only Run !
+
+    CAN Detect : 
     EDRs: CrowdStrike Falcon , Windows Defender , SentinalOne , Carbon Black , Sophos , Cortex XDR , Symantec , Trend Micro Apexone
-    SIEMs: Splunk , Elastic , NXLog , Wazuh  
+    SIEM Agents: Splunk , Elastic , NXLog , Wazuh  
     AVs: McAfee , Kaspersky , ESET , Avast , Bitdefender , ZoneAlarm
 
     This script leverages various Living Off The Land (LOTL) techniques and built-in Windows

@@ -1,4 +1,4 @@
-A stealthy PowerShell script to detect EDE/Av and SIEM Agents
+A stealthy PowerShell script to detect EDR/Av and SIEM Agents
 
     Usage : Only Run !
 
